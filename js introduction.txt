@@ -1,0 +1,55 @@
+1//
+console.log(`Ghabriel
+Jawa Barat
+16 Februari
+19 Tahun
+Pencari kerja`)
+
+
+2//
+const nama=(prompt('Nama User'));
+const asalNegara=(prompt('Masukkan asal negara'));
+const valid = confirm('Apakah data yang diisi sudah benar?')
+console.log(valid)
+alert('Terimakasih telah mengisi form')
+
+
+
+// 3
+// console.log(`Ihsan
+// Jawa Barat
+// 25 Mei
+// 18
+// Pencari Kerja
+// `)
+
+
+// 4
+/*
+const nama = prompt('Masukan nama');
+const asalNegara = prompt('Masukan asal negara');
+const valid = confirm('Apakah data yang di isi sudah benar? ')
+alert('Terima kasih telah mengisi form');
+*/
+
+
+// 5
+const nama = 'Ghabriel'
+const asalDaerah = 'Jawa Barat'
+const tanggalLahir = '16 Februari'
+const umur = '19'
+const posisiPekerjaan = 'Pencari Kerja'
+console.log(nama)
+console.log(asalDaerah)
+console.log(tanggalLahir)
+console.log(umur)
+console.log(tanggalLahir)
+console.log(posisiPekerjaan)
+
+
+//6
+const penjumlahan = 25+10;
+const perkalian = 100* 2;
+const pembagian = 99 / 2;
+const modulus = 99 % 2;
+
